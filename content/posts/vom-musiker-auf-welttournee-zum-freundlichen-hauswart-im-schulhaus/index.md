@@ -1,5 +1,5 @@
 +++
-title = "Vom Musiker auf Welttournee zum freundlichen Hauswart im Schulhaus"
+title = " "
 date = "2024-04-27"
 draft = false
 pinned = false
@@ -8,7 +8,7 @@ pinned = false
 
 **Ein Leben als Rockstar, das hat sich Edy erträumt und tourte als Musiker Rosso um die Welt. Der Liebe folgte er in die Schweiz und hat sich ein neues Leben mit neuem beruf aufgebaut. Vermisst er sein altes Leben und die Musik? Ein Leben als Rockstar, das hat sich Edy erträumt und tourte als Musiker Rosso um die Welt. Der Liebe folgte er in die Schweiz und hat sich ein neues Leben mit neuem beruf aufgebaut. Vermisst er sein altes Leben und die Musik?**
 
- * Autor: James Winfield*
+   *Autor: James Winfield*
 
 Statt Backstage, wie man mit Edy aka. Russo früher ein Interview geführt hätte, sitzen wir uns im Bistro an seinem neuen Arbeitsort, im Campus Muristalden gegenüber. Edy trägt Arbeitskleidung, so kenne ich ihn. Bis vor kurzem war mir nicht bewusst, dass Edy vor ein paar Jahren noch ein ganz anderes Leben geführt hat.
 
@@ -36,7 +36,7 @@ Mein grösster Moment als Musiker war definitiv die Zeit, als ich mit LURA, eine
 
 Das war wirklich schwierig! Ich war nicht depressiv, aber ich war sehr fokussiert darauf, die Lehre zu absolvieren und alles zu geben. Ich habe einen intensiven Deutschkurs gemacht und mich komplett darauf konzentriert, voranzukommen. Es war hart, denn ich hatte kaum noch ein Leben ausserhalb der Arbeit. Vielleicht war es zu viel, aber im Nachhinein war es die richtige Entscheidung für mich. Einige Dinge, die mir wichtig waren, sind zwar auf der Strecke geblieben, aber ich blieb fokussiert bis zum Ende der Lehre. Es war eine schwere Zeit, aber wenn man fokussiert ist, ist alles machbar.
 
-##  ***„Die Musik war und ist mein Leben.“***
+## ***„Die Musik war und ist mein Leben.“***
 
 **Was hat dir die Musik bedeutet und was bedeutet sie dir jetzt?**
 
