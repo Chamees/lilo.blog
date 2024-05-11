@@ -6,7 +6,7 @@ pinned = false
 +++
 # **Vom Musiker auf Welttournee zum freundlichen Hauswart im Schulhaus**
 
-**Ein Leben als Rockstar, das hat sich Edy erträumt und tourte als Musiker Rosso um die Welt. Der Liebe folgte er in die Schweiz und hat sich ein neues Leben mit neuem beruf aufgebaut. Vermisst er sein altes Leben und die Musik? Ein Leben als Rockstar, das hat sich Edy erträumt und tourte als Musiker Rosso um die Welt. Der Liebe folgte er in die Schweiz und hat sich ein neues Leben mit neuem beruf aufgebaut. Vermisst er sein altes Leben und die Musik?**
+**Ein Leben als Rockstar, das hat sich Edy erträumt, und er tourte als Musiker Rosso um die Welt. Der Liebe folgte er in die Schweiz wo er sich ein neues Leben mit neuem Beruf aufgebaut hat. Vermisst er sein altes Leben und die Musik?**  
 
    *Autor: James Winfield*
 
@@ -14,9 +14,9 @@ Statt Backstage, wie man mit Edy aka. Russo früher ein Interview geführt hätt
 
 **Was hast du vor 15-20 Jahren gemacht und wie hat dein Leben damals ausgesehen?**
 
-Vor zwanzig Jahren hat mein Leben fast wie heute ausgesehen, damals habe ich als Techniker bei einer Firma gearbeitet. Mein Kollege hat mich damals in die Musikwelt gebracht und von da an bestand mein Leben hauptsächlich aus Musik. Ich hatte viel Erfolg und spielte auf vielen Konzerten und Tourneen.
+Vor zwanzig Jahren hat mein Leben fast wie heute ausgesehen. Damals habe ich als Techniker bei einer Firma gearbeitet. Mein Kollege hat mich damals in die Musikwelt gebracht und von da an bestand mein Leben hauptsächlich aus Musik. Ich hatte viel Erfolg und spielte auf vielen Konzerten und Tourneen.
 
-**Wie war es für dich, auf einer Bühne vor grossem Publikum zu spielen und wie hat das dir gefallen?**
+**Wie war es für dich, auf einer Bühne vor grossem Publikum zu spielen, und wie hat das dir gefallen?**
 
 Es war ein lang gehegter Traum, wie ein Rockstar zu sein. Als ich endlich die Gelegenheit bekam, war es aufregend und beängstigend zugleich. Doch es war auch eine unbeschreibliche Magie, auf der Bühne zu stehen und Musik zu machen. Es war ein Geschenk des Lebens, welches ich sehr genossen habe.
 
@@ -32,7 +32,7 @@ Das war eine schwierige Entscheidung. Meine Freundin war ein grosser Faktor. Als
 
 Mein grösster Moment als Musiker war definitiv die Zeit, als ich mit LURA, einer Sängerin aus Lissabon, die Welt bereisen und auftreten durfte. Das war etwa 2007, ein fantastisches Jahr voller aufregender Konzerte. Ein Höhepunkt war unser Auftritt auf einem Festival in Australien. Die riesige Bühne, das begeisterte Publikum – all das liess mich fühlen, als wäre ich ein Star. Es war ein unvergessliches Erlebnis, das mir zeigte, dass ich auf dem richtigen Weg bin. Es war vielleicht nicht ganz wie bei Bon Jovi, den ich als Kind immer als Vorbild hatte, aber es war grossartig, vor so vielen Menschen zu spielen.
 
-**War es ein schwieriger Entscheid die Musikkarriere aufzugeben?**
+**War es ein schwieriger Entscheid, die Musikkarriere aufzugeben?**
 
 Das war wirklich schwierig! Ich war nicht depressiv, aber ich war sehr fokussiert darauf, die Lehre zu absolvieren und alles zu geben. Ich habe einen intensiven Deutschkurs gemacht und mich komplett darauf konzentriert, voranzukommen. Es war hart, denn ich hatte kaum noch ein Leben ausserhalb der Arbeit. Vielleicht war es zu viel, aber im Nachhinein war es die richtige Entscheidung für mich. Einige Dinge, die mir wichtig waren, sind zwar auf der Strecke geblieben, aber ich blieb fokussiert bis zum Ende der Lehre. Es war eine schwere Zeit, aber wenn man fokussiert ist, ist alles machbar.
 
@@ -40,7 +40,7 @@ Das war wirklich schwierig! Ich war nicht depressiv, aber ich war sehr fokussier
 
 **Was hat dir die Musik bedeutet und was bedeutet sie dir jetzt?**
 
-Ich fühlte mich für eine Weile wie ein Sanitär Installateur. Ich dachte, das sei nun mein neues Leben. Es war seltsam, aber ich dachte, das sei normal. Dann bemerkte Fabienne, dass ich mich verändert hatte. Sie meinte, früher sei ich anders gewesen, besser. Das brachte mich ins Grübeln. War ich nun ein Sanitär oder ein Musiker? Der sanitäre Installateur bot Sicherheit, Musik Freude und Spass – alles, was mein Leben ausmachte. Ich war hin- und hergerissen. Als ich LURA davon erzählte, sagte sie plötzlich: "Einmal Musiker, immer Musiker." Das traf mich tief. Ich erkannte, dass ich immer ein Musiker sein würde, egal was ich beruflich machte. Also beschloss ich, mein Leben zu ändern und einen Job zu finden, der mir mehr Zeit für die Musik lässt. Und genau das habe ich getan. Und deshalb bin ich heute hier.
+Ich fühlte mich für eine Weile wie ein Sanitärinstallateur. Ich dachte, das sei nun mein neues Leben. Es war seltsam, aber ich dachte, das sei normal. Dann bemerkte Fabienne, dass ich mich verändert hatte. Sie meinte, früher sei ich anders gewesen, besser. Das brachte mich ins Grübeln. War ich nun ein Sanitär oder ein Musiker? Der Sanitärinstallateur bot Sicherheit, Musik Freude und Spass – alles, was mein Leben ausmachte. Ich war hin- und hergerissen. Als ich LURA davon erzählte, sagte sie plötzlich: "Einmal Musiker, immer Musiker." Das traf mich tief. Ich erkannte, dass ich immer ein Musiker sein würde, egal was ich beruflich machte. Also beschloss ich, mein Leben zu ändern und einen Job zu finden, der mir mehr Zeit für die Musik lässt. Und genau das habe ich getan. Und deshalb bin ich heute hier.
 
 **Wie bist du in deinem Leben hier gestartet?**
 
@@ -50,7 +50,7 @@ Schwierig, nein, das würde ich nicht sagen. Die einzige Hürde war die Sprache.
 
 **Was war das Schwierigste und auch das Schönste am Neustart?**
 
-Das Schwierigste war definitiv die Sprache. Es war eine Herausforderung, Deutsch zu lernen, aber als ich dann bemerkte, dass ich die Sprache beherrschte und verstanden wurde, war das ein grossartiges Gefühl. Das Schönste war, zu merken, dass ich integriert war. Es gab natürlich noch Hindernisse, wie verschiedene Dialekte, aber es war ein tolles Gefühl zu wissen, dass ich meinen Platz gefunden hatte.
+Das Schwierigste war definitiv die Sprache. Es war eine Herausforderung, Deutsch zu lernen, aber als ich dann bemerkte, dass ich die Sprache beherrschte und verstanden wurde, war das ein grossartiges Gefühl. Das Schönste war zu merken, dass ich integriert war. Es gab natürlich noch Hindernisse, wie verschiedene Dialekte, aber es war ein tolles Gefühl zu wissen, dass ich meinen Platz gefunden hatte.
 
 **Wie bist du im Muristalden gelandet?**
 
