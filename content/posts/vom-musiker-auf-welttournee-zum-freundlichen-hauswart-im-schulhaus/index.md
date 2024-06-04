@@ -1,5 +1,5 @@
 +++
-title = " "
+title = " Vom Musiker auf Welttournee zum freundlichen Hauswart im Schulhaus "
 date = "2024-04-27"
 draft = false
 pinned = false
