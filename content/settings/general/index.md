@@ -1,7 +1,7 @@
 +++
 headless = true
-title = "My Name"
-description = "A Lifelong Journey"
+title = " James Winfield"
+description = "“Music touches us emotionally, where words alone can’t.” ― Johnny Depp"
 footerLeft = "Powered by 💜 [Lilo.page](https://www.lilo.page)"
-footerRight = "🏷️ [Tags](/tags/) | 🗃️ [Archive](/posts/)"	
+footerRight = "🏷️ [Tags](/tags/) | 🗃️ [Archive](/posts/)"
 +++
