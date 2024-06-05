@@ -6,11 +6,17 @@ pinned = false
 +++
 # **Vom Musiker auf Welttournee zum freundlichen Hauswart im Schulhaus**
 
-**Ein Leben als Rockstar, das hat sich Edy erträumt, und er tourte als Musiker Rosso um die Welt. Der Liebe folgte er in die Schweiz wo er sich ein neues Leben mit neuem Beruf aufgebaut hat. Vermisst er sein altes Leben und die Musik?**  
+**Ein Leben als Rockstar, das hat sich Edy erträumt, und er tourte als Musiker Rosso um die Welt. Der Liebe folgte er in die Schweiz, wo er sich ein neues Leben mit neuem Beruf aufgebaut hat. Vermisst er sein altes Leben und die Musik?**  
 
    *Autor: James Winfield*
 
 Statt Backstage, wie man mit Edy aka. Russo früher ein Interview geführt hätte, sitzen wir uns im Bistro an seinem neuen Arbeitsort, im Campus Muristalden gegenüber. Edy trägt Arbeitskleidung, so kenne ich ihn. Bis vor kurzem war mir nicht bewusst, dass Edy vor ein paar Jahren noch ein ganz anderes Leben geführt hat.
+
+{{<box>}}
+
+Edy ist am 1.Februar 1982 in Angola als Portugiese geboren und ist dort auch aufgewachsen. In 1999 ist er nach Lissabon umgezogen und hat dort als Hilfsbauarbeiter, Rezeptionist und als Techniker gearbeitet. Von 2008 bis 2010 hat er eine Jazzschule besucht und hat von 2006 bis 20011 als professioneller Musiker gearbeitet. In 2011 ist Edy dann in die Schweiz umgezogen.
+
+{{</box>}}
 
 **Was hast du vor 15-20 Jahren gemacht und wie hat dein Leben damals ausgesehen?**
 
@@ -40,11 +46,11 @@ Das war wirklich schwierig! Ich war nicht depressiv, aber ich war sehr fokussier
 
 **Was hat dir die Musik bedeutet und was bedeutet sie dir jetzt?**
 
-Ich fühlte mich für eine Weile wie ein Sanitärinstallateur. Ich dachte, das sei nun mein neues Leben. Es war seltsam, aber ich dachte, das sei normal. Dann bemerkte Fabienne, dass ich mich verändert hatte. Sie meinte, früher sei ich anders gewesen, besser. Das brachte mich ins Grübeln. War ich nun ein Sanitär oder ein Musiker? Der Sanitärinstallateur bot Sicherheit, Musik Freude und Spass – alles, was mein Leben ausmachte. Ich war hin- und hergerissen. Als ich LURA davon erzählte, sagte sie plötzlich: "Einmal Musiker, immer Musiker." Das traf mich tief. Ich erkannte, dass ich immer ein Musiker sein würde, egal was ich beruflich machte. Also beschloss ich, mein Leben zu ändern und einen Job zu finden, der mir mehr Zeit für die Musik lässt. Und genau das habe ich getan. Und deshalb bin ich heute hier.
+Ich fühlte mich für eine Weile wie ein Sanitärinstallateur. Ich dachte, das sei nun mein neues Leben. Es war seltsam, aber ich dachte, das sei normal. Dann bemerkte Fabienne, dass ich mich verändert hatte. Sie meinte, früher sei ich anders gewesen, besser. Das brachte mich ins Grübeln. War ich nun ein Sanitär oder ein Musiker? Der Sanitärinstallateur bot Sicherheit, Musik Freude und Spass – alles, was mein Leben ausmachte. Ich war hin- und hergerissen. Als ich LURA davon erzählte, sagte sie plötzlich: "Einmal Musiker, immer Musiker." Das traf mich tief. Ich erkannte, dass ich immer ein Musiker sein würde, egal, was ich beruflich machte. Also beschloss ich, mein Leben zu ändern und einen Job zu finden, der mir mehr Zeit für die Musik lässt. Und genau das habe ich getan. Und deshalb bin ich heute hier.
 
 **Wie bist du in deinem Leben hier gestartet?**
 
-Schwierig, nein, das würde ich nicht sagen. Die einzige Hürde war die Sprache. Aber ich konnte Französisch und Englisch, und ich sprach immer Französisch mit den Leuten. Einmal sagte jemand zu mir: *"Wann fängst du mit Deutsch an?"* Das hat mich zum Nachdenken gebracht. Ich wusste, ich muss die Sprache lernen. Also habe ich mich darauf konzentriert, direkt Deutsch zu lernen. Ich empfehle das jedem Einwanderer. Der Schlüssel ist nicht, was du machst, sondern die Sprache. Es war nicht einfach, aber es war machbar. Ich hatte natürlich auch eine Schweizer Freundin, die mir half, Deutsch zu lernen und das war eine grosse Unterstützung.
+Schwierig, nein, das würde ich nicht sagen. Die einzige Hürde war die Sprache. Aber ich konnte Französisch und Englisch, und ich sprach immer Französisch mit den Leuten. Einmal sagte jemand zu mir: *"Wann fängst du mit Deutsch an?"* Das hat mich zum Nachdenken gebracht. Ich wusste, ich muss die Sprache lernen. Also habe ich mich darauf konzentriert, direkt Deutsch zu lernen. Ich empfehle das jedem Einwanderer. Der Schlüssel ist nicht, was du machst, sondern die Sprache. Es war nicht einfach, aber es war machbar. Ich hatte natürlich auch eine Schweizer Freundin, die mir half, Deutsch zu lernen, und das war eine grosse Unterstützung.
 
 ![ Edy bei der Arbeit im Muristalden](screenshot-2024-03-19-151858.png)
 
