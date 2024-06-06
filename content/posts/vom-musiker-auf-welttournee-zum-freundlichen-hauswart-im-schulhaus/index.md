@@ -42,7 +42,7 @@ Mein grösster Moment als Musiker war definitiv die Zeit, als ich mit LURA, eine
 
 Das war wirklich schwierig! Ich war nicht depressiv, aber ich war sehr fokussiert darauf, die Lehre zu absolvieren und alles zu geben. Ich habe einen intensiven Deutschkurs gemacht und mich komplett darauf konzentriert, voranzukommen. Es war hart, denn ich hatte kaum noch ein Leben ausserhalb der Arbeit. Vielleicht war es zu viel, aber im Nachhinein war es die richtige Entscheidung für mich. Einige Dinge, die mir wichtig waren, sind zwar auf der Strecke geblieben, aber ich blieb fokussiert bis zum Ende der Lehre. Es war eine schwere Zeit, aber wenn man fokussiert ist, ist alles machbar.
 
-## ***„Die Musik war und ist mein Leben.“***
+> ## ***Die Musik war und ist mein Leben.***
 
 **Was hat dir die Musik bedeutet und was bedeutet sie dir jetzt?**
 
