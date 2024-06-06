@@ -26,7 +26,7 @@ Vor zwanzig Jahren hat mein Leben fast wie heute ausgesehen. Damals habe ich als
 
 Es war ein lang gehegter Traum, wie ein Rockstar zu sein. Als ich endlich die Gelegenheit bekam, war es aufregend und beängstigend zugleich. Doch es war auch eine unbeschreibliche Magie, auf der Bühne zu stehen und Musik zu machen. Es war ein Geschenk des Lebens, welches ich sehr genossen habe.
 
-## ***«Einmal Musiker, immer Musiker »***
+> ## ***Einmal Musiker, immer Musiker***
 
 **Was hat dich dazu bewegt, dieses Leben als Musiker aufzugeben?**
 
