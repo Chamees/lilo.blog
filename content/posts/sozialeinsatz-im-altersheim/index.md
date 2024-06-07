@@ -3,7 +3,7 @@ title = "Sozialeinsatz im Altersheim"
 date = "2024-06-07"
 draft = false
 pinned = false
-image = "oip.jpg"
+image = ""
 +++
 <!--\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
