@@ -36,6 +36,12 @@ Es führt dazu, dass Edy Lura anruft und ihr erzählt, dass er nicht mehr musizi
 
 Er sucht sich eine neue Stelle, bei welcher er mehr Zeit für die Musik hat. Er schaut sich Inserate an und findet eines für Hauswart. Ihm gefällt das, da man für diese Stelle einen ausgebildeten Sanitär sucht und Edy genau das ist. Er bewirbt sich, hat mehrere Vorstellungsgespräche und nach einer Zeit landet er dann beim Muristalden. Ihm gefällt es dort, die Leute sind nett und lustig und die Arbeitsprozente sind zwischen 60 und 80, dies ist perfekt für Edy, so hat er einen Job, aber auch genug Zeit für die Musik.
 
+![ Edy bei der Arbeit im Muristalden](whatsapp-bild-2024-03-16-um-18.17.46_93a63d4a.jpg)
+
 >  **Neues Leben in der Schweiz**
 
-Edy ist nicht einfach in das neue Leben in der Schweiz gestartet, doch er war bereit diese Herausforderung anzunehmen. So lernte er Deutsch und hat auch eine Lehre mit 30 abgeschlossen. Als ich frage, ob Edy noch kontakt hat zu seinen Bandmitgliedern hat erzählt er mir mit einer warmen und fröhlichen stimme, dass er immer, wen er Ferien in Portugal macht, zuerst bei all seinen Kollegen zu Gast ist und dort in alte Zeiten abtaucht. *«Das Gefühl, lebendig zu sein, das mir die Musik gibt, ist unbezahlbar. Es bringt mich dazu, mich wirklich lebendig zu fühlen.»* Auf die Frage, ob Edy seine alten Zeiten als Musiker vermisst, zögert er einen Moment. Edy ist zufrieden mit dem was er jetzt hat, er schätzt die Verantwortung und Sicherheit die er jetzt hat, aber etwas Nostalgie schwingt mit und das Musik für ihn ein ganz wichtiger Teil ist, bleibt auch in der Schweiz so.
+Edy ist nicht einfach in das neue Leben in der Schweiz gestartet, doch er war bereit diese Herausforderung anzunehmen. So lernte er Deutsch und hat auch eine Lehre mit 30 abgeschlossen. Als ich frage, ob Edy noch kontakt hat zu seinen Bandmitgliedern hat erzählt er mir mit einer warmen und fröhlichen stimme, dass er immer, wen er Ferien in Portugal macht, zuerst bei all seinen Kollegen zu Gast ist und dort in alte Zeiten abtaucht.
+
+ *«Das Gefühl, lebendig zu sein, das mir die Musik gibt, ist unbezahlbar. Es bringt mich dazu, mich wirklich lebendig zu fühlen.»*
+
+Auf die Frage, ob Edy seine alten Zeiten als Musiker vermisst, zögert er einen Moment. Edy ist zufrieden mit dem was er jetzt hat, er schätzt die Verantwortung und Sicherheit die er jetzt hat, aber etwas Nostalgie schwingt mit und das Musik für ihn ein ganz wichtiger Teil ist, bleibt auch in der Schweiz so.
