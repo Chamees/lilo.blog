@@ -3,6 +3,7 @@ title = "Die Musik des Neuanfangs "
 date = "2024-06-12"
 draft = false
 pinned = false
+image = "download.jpg"
 +++
 *Autor James Winfield* 
 
